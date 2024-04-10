@@ -3,7 +3,7 @@
 #include <string>
 
 using namespace std;
-
+//Якупов Ратмир
 // Определяем приоритеты операций
 int getPriority(char op) {
     // Возвращает приоритет операции op
